@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "598075725784",
+    "project_id": "campiq-954bd",
+    "storage_bucket": "campiq-954bd.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:598075725784:android:d02ab595cca3eebd0784ad",
+        "android_client_info": {
+          "package_name": "com.example.demo_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCJNP2pYZ1rjL5GN3phxLs0Ht96Hoenp1k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
